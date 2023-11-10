@@ -7,7 +7,7 @@ I'm making progress in my journey to become a full-stack developer
 - 👯 I’m looking to collaborate on open source front end projects to help me improve.
 
 
-(https://github-profile-trophy.vercel.app/?KyloZer0=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **KyloZer0/KyloZer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
